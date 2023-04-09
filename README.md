@@ -9,7 +9,8 @@
 </p>
 
 ### Hi there, I'm Rahul 👋
-I am currectly working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, Ireland
+I am currectly working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, Ireland.
+I am interested in solving problems in the areas of Machine Learning, Deep Learning, Natural Language Processing, computer vision,...
 
 
 <!-- **rahulponnusamy/rahulponnusamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
