@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![rahul's gitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&show_icons=true&theme=dracula&hide=stars,issues)
+![rahul's GitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&theme=prussian&show_icons=true&count_private=true)
 
-<!-- ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+<!-- ![rahul's gitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&show_icons=true&theme=dracula&hide=stars,issues)
 
 
 ## 🔧 Technologies & Tools
