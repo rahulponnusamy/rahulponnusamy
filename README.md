@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&theme=prussian&show_icons=true&count_private=true)
+![rahul's GitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&theme=prussian&show_icons=true&count_private=true)
