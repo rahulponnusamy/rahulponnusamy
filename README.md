@@ -16,7 +16,7 @@
 currently, I'm living working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, <img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> <b>Galway, Ireland.</b>. </p>
 <h3>Things I code with</h3>
 <p>
-    <img alt="python" src="https://img.shields.io/badge/-Python-F05032?style=flat-square&logo=python&logoColor=white" />
+    <img alt="python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 </p>
