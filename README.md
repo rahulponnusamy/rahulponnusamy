@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="https://github.com/rahulponnusamy/rahulponnusamy/banner.jpg" alt="banner" href=""></a>
+  <img src="https://github.com/rahulponnusamy/rahulponnusamy/banner.jpg" alt="banner">
   <a href="https://www.linkedin.com/in/rahul-ponnusamy/"><img src="https://img.shields.io/badge/LinkedIn-rahulponnusamy-blue" alt="LinkedIn" href="https://www.linkedin.com/in/rahul-ponnusamy/"></a>
   
   <!-- <a href="https://twitter.com/sudo_navendu"><img src="https://img.shields.io/twitter/follow/sudo_navendu?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/sudo_navendu"></a> -->
