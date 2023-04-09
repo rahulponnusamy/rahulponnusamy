@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![rahul's gitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&theme=dracula&show_icons=true)
+![rahul's gitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&theme=dracula&show_icons=true&hide=stars,issues)
 
 <!-- ![rahul's gitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&show_icons=true&theme=dracula&hide=stars,issues)
 
