@@ -25,7 +25,7 @@ currently, I'm living working as Research Assistant at Insight SFI Research Cent
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/IDE-Spyder-informational?style=flat&logo=spyder-ide&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm-ide&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
