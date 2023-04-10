@@ -12,7 +12,7 @@
 
 <p>Welcome to my page! </br> I'm Rahul, Research/Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906480.png" width="13"/> <b>Tamil Nadu, India</b>, 
 currently, I'm living working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, <img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> <b>Galway, Ireland.</b> <br>
-I am interested in solving problems in the areas of <img src="https://cdn-icons-png.flaticon.com/512/9716/9716586.png"> Machine Learning, <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png"> Deep Learning, <img src="https://cdn-icons-png.flaticon.com/512/9831/9831334.png"> Natural Language Processing, <img src="https://cdn-icons-png.flaticon.com/512/2586/2586683.png"> computer vision,...
+I am interested in solving problems in the areas of <img src="https://cdn-icons-png.flaticon.com/512/9716/9716586.png" width="13"> Machine Learning, <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="13"> Deep Learning, <img src="https://cdn-icons-png.flaticon.com/512/9831/9831334.png" width="13"> Natural Language Processing, <img src="https://cdn-icons-png.flaticon.com/512/2586/2586683.png" width="13"> computer vision,...
  </p>
 <!-- <h3>Things I code with</h3>
 <p>
