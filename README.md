@@ -12,13 +12,13 @@
 
 <p>Welcome to my page! </br> I'm Rahul, Research/Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906480.png" width="13"/> <b>Tamil Nadu, India</b>, 
 currently, I'm living working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, <img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> <b>Galway, Ireland.</b>. </p>
-<h3>Things I code with</h3>
+<!-- <h3>Things I code with</h3>
 <p>
     <img alt="python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-</p>
+</p> -->
 
 ## 🔧 Technologies & Tools
 
@@ -54,21 +54,6 @@ Here are some ideas to get you started:
 <!-- <--this for showing visitors>
 ![pv](https://pageview.vercel.app/?github_user=rahulponnusamy) -->
 
-<!-- 
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-
 
 ## 🗂️ Highlight Projects
 
@@ -78,4 +63,4 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a> -->
+</a>
