@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 ![rahul's gitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&theme=dracula&show_icons=true)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/rahulponnusamy/rahulponnusamy)
+
 <!-- ![rahul's gitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&show_icons=true&theme=dracula&hide=stars,issues)
 
 
