@@ -3,6 +3,7 @@
     <a href="https://www.linkedin.com/in/rahul-ponnusamy/"><img src="https://img.shields.io/badge/LinkedIn-rahulponnusamy-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/rahul-ponnusamy/"></a>
     <a href="https://orcid.org/0000-0001-8023-7742"><img src="https://img.shields.io/badge/ORCID-0000--0002--9425--2556-blue?style=flat-square&logo=orcid" alt="ORCID" href="https://orcid.org/0000-0001-8023-7742"></a>
     <a href="https://scholar.google.com/citations?hl=en&user=AVhMX-kAAAAJ"><img src="https://img.shields.io/badge/Google--Scholar-rahulponnusamy-blue?style=flat-square&logo=google-scholar" alt="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=AVhMX-kAAAAJ"></a>
+    <a href=https://github.com/rahulponnusamy><img srv="https://img.shields.io/github/followers/rahulponnusamy?label=follow&style=social" alt=Follows href="https://github.com/rahulponnusamy">
     
 </p>
 
@@ -21,10 +22,22 @@ currently, I'm living working as Research Assistant at Insight SFI Research Cent
 
 </p>
 
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
 
-I am currectly working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, Ireland.
-I am interested in solving problems in the areas of Machine Learning, Deep Learning, Natural Language Processing, computer vision,...
+<!-- I am currectly working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, Ireland.
+I am interested in solving problems in the areas of Machine Learning, Deep Learning, Natural Language Processing, computer vision,... -->
 
 
 <!-- **rahulponnusamy/rahulponnusamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,10 +56,11 @@ Here are some ideas to get you started:
 ![rahul's gitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&theme=dracula&show_icons=true)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/rahulponnusamy/rahulponnusamy)
-![pv](https://pageview.vercel.app/?github_user=rahulponnusamy)
 
-<!-- ![rahul's gitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&show_icons=true&theme=dracula&hide=stars,issues)
+<!-- <--this for showing visitors>
+![pv](https://pageview.vercel.app/?github_user=rahulponnusamy) -->
 
+<!-- 
 
 ## 🔧 Technologies & Tools
 
