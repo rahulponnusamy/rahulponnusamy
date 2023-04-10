@@ -11,7 +11,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Rahul, Research/Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906480.png" width="13"/> <b>Tamil Nadu, India</b>, 
-currently, I'm living working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, <img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> <b>Galway, Ireland.</b>. 
+currently, I'm living working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, <img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> <b>Galway, Ireland.</b> <br>
 I am interested in solving problems in the areas of Machine Learning, Deep Learning, Natural Language Processing, computer vision,...
  </p>
 <!-- <h3>Things I code with</h3>
