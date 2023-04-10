@@ -29,7 +29,7 @@ I am interested in solving problems in the areas of <img src="https://cdn-icons-
 ![](https://img.shields.io/badge/IDE-Spyder-informational?style=flat&logo=spyder-ide&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-Django--brightgreen.svg?style=flat&logo=django&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
 
