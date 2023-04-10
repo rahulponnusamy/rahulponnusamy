@@ -3,7 +3,6 @@
     <a href="https://www.linkedin.com/in/rahul-ponnusamy/"><img src="https://img.shields.io/badge/LinkedIn-rahulponnusamy-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/rahul-ponnusamy/"></a>
     <a href="https://orcid.org/0000-0001-8023-7742"><img src="https://img.shields.io/badge/ORCID-0000--0002--9425--2556-blue?style=flat-square&logo=orcid" alt="ORCID" href="https://orcid.org/0000-0001-8023-7742"></a>
     <a href="https://scholar.google.com/citations?hl=en&user=AVhMX-kAAAAJ"><img src="https://img.shields.io/badge/Google--Scholar-rahulponnusamy-blue?style=flat-square&logo=google-scholar" alt="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=AVhMX-kAAAAJ"></a>
-    <a href=https://github.com/rahulponnusamy><img srv="https://img.shields.io/github/followers/rahulponnusamy?label=follow&style=social" alt=Follows href="https://github.com/rahulponnusamy">
     
 </p>
 
