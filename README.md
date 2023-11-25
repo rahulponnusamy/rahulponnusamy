@@ -10,8 +10,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Rahul, Research/Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906480.png" width="13"/> <b>Tamil Nadu, India</b>, 
-currently, I'm living working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, <img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> <b>Galway, Ireland.</b> <br>
+<p>Welcome to my page! </br> I'm Rahul, a Researcher/Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906480.png" width="13"/> <b>Tamil Nadu, India</b>, 
+currently, I'm a Ph.D. Scholar at Data Science Institute, University of Galway, <img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> <b>Galway, Ireland.</b> <br>
 I am interested in solving problems in the areas of <img src="https://cdn-icons-png.flaticon.com/512/9716/9716586.png" width="15"> Machine Learning, <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="15"> Deep Learning, <img src="https://cdn-icons-png.flaticon.com/512/9831/9831334.png" width="15"> Natural Language Processing, <img src="https://cdn-icons-png.flaticon.com/512/2586/2586683.png" width="15"> computer vision,...
  </p>
 <!-- <h3>Things I code with</h3>
