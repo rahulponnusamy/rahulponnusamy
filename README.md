@@ -33,17 +33,13 @@ I am interested in solving problems in the areas of <img src="https://cdn-icons-
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
 
-
-
-
-<!-- I am currectly working as Research Assistant at Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway, Ireland.
-
-
--->
-
 ![rahul's gitHub stats](https://github-readme-stats.vercel.app/api/?username=rahulponnusamy&theme=dracula&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulponnusamy)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/rahulponnusamy/rahulponnusamy)
+
+
 
 <!-- <--this for showing visitors>
 ![pv](https://pageview.vercel.app/?github_user=rahulponnusamy) -->
