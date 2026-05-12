@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rahulponnusamy">
-    <img src="https://img.shields.io/badge/GitHub-rahulponnusamy-111827?style=flat-square&logo=github" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/rahul-ponnusamy/">
     <img src="https://img.shields.io/badge/LinkedIn-rahulponnusamy-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://orcid.org/0000-0001-8023-7742">
+    <img src="https://img.shields.io/badge/ORCID-0000--0001--8023--7742-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
   <a href="https://scholar.google.com/citations?hl=en&user=AVhMX-kAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-rahulponnusamy-4285F4?style=flat-square&logo=google-scholar" alt="Google Scholar" />
@@ -95,4 +95,18 @@ profile = {
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Linux-1F1F1F?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+## 📊 GitHub Activity
+<!-- 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rahulponnusamy&show_icons=true&theme=dracula" alt="rahul's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rahulponnusamy&layout=compact&langs_count=8&card_width=320&theme=dracula" alt="Top Langs" />
+</p> -->
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/rahulponnusamy/rahulponnusamy?style=flat-square" alt="Last commit" />
 </p>
