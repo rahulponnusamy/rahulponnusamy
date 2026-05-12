@@ -16,20 +16,29 @@
 
 <h1 align="center">Rahul Ponnusamy</h1>
 <p align="center">
-  PhD researcher in Computer Science at the Data Science Institute, University of Galway.
+  👋 PhD researcher in Computer Science at the Data Science Institute, University of Galway.
 </p>
 <p align="center">
   I work on multilingual NLP, multimodal machine learning, harmful-content detection, and culturally aware AI for low-resource languages.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Multilingual%20NLP-1f6feb?style=flat-square" alt="Multilingual NLP" />
-  <img src="https://img.shields.io/badge/Focus-Multimodal%20ML-1f6feb?style=flat-square" alt="Multimodal ML" />
-  <img src="https://img.shields.io/badge/Focus-Document%20AI-1f6feb?style=flat-square" alt="Document AI" />
-  <img src="https://img.shields.io/badge/Focus-LLM%20Workflows-1f6feb?style=flat-square" alt="LLM Workflows" />
+  <img src="https://img.shields.io/badge/Focus-🧠%20Multilingual%20NLP-1f6feb?style=flat-square" alt="Multilingual NLP" />
+  <img src="https://img.shields.io/badge/Focus-🎥%20Multimodal%20ML-1f6feb?style=flat-square" alt="Multimodal ML" />
+  <img src="https://img.shields.io/badge/Focus-📄%20Document%20AI-1f6feb?style=flat-square" alt="Document AI" />
+  <img src="https://img.shields.io/badge/Focus-🤖%20LLM%20Workflows-1f6feb?style=flat-square" alt="LLM Workflows" />
 </p>
 
-## Tools
+## ✨ Quick Snapshot
+
+<p>
+  🌍 Galway, Ireland <br />
+  🔬 PhD research in Computer Science <br />
+  🧪 Focused on multilingual NLP, multimodal ML, and responsible AI <br />
+  🛠️ Python, Django, Linux, Bash
+</p>
+
+## 🛠️ Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
